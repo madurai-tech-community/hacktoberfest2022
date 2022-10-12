@@ -1,1 +1,1 @@
-# madurai hacktoberfest2022
+# Madurai Tech Community - Open source training
